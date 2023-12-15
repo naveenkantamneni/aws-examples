@@ -30,7 +30,7 @@ CREATE TABLE aws.user (
 ### Clone the Repository
 
 ```shell
-git clone https://github.com/naveenkantamneni/amazon-keyspaces-examples.git
+git clone https://github.com/naveenkantamneni/aws-examples.git
 ```
 
 ### Build from Source code (optional)
@@ -48,7 +48,7 @@ Navigate to the base Directory, Modify the Dockerfile as needed and build the Do
 
 ```
 cd aws-examples/eks-keyspaces-app
-docker build -t <aws_account_id>.dkr.ecr.<AWS_region>.amazonaws.com/mykeyspacessigv4springbootapp .
+docker build -t <aws_account_id>.dkr.ecr.<AWS_region>.amazonaws.com/mykeyspacessigv4springbootapp:latest .
 ```
 
 ### Retrieve Authentication Token to push the image to ECR

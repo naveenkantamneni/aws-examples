@@ -13,7 +13,7 @@ spec:
       labels:
         app: mykeyspacessigv4springbootapp
     spec:
-      serviceAccountName: myeks-service-account
+      serviceAccountName: my-eks-serviceaccount
       containers:
       - name: myksappcontainer
         image: 123456789.dkr.ecr.us-east-1.amazonaws.com/mykeyspacessigv4springbootapp:latest
