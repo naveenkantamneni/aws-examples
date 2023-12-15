@@ -1,6 +1,6 @@
-# Example Application to test Connection from Amazon EKS to Amazon Keyspaces using SigV4 Authentication
+# Sample Application for Amazon EKS to Amazon Keyspaces connectivity Testing using SigV4 Authentication
 
-This example demonstrates how to use this Keyspaces Spring Boot example Application to test the connectivity from Amazon EKS to Amazon Keyspaces using SigV4 authentication.
+This example showcases a Spring Boot application designed for testing the connection between Amazon Elastic Kubernetes Service (EKS) and Amazon Keyspaces, utilizing SigV4 authentication for secure connectivity.
 
 ## Prerequisites
 
@@ -34,7 +34,7 @@ git clone https://github.com/naveenkantamneni/amazon-keyspaces-examples.git
 ```
 
 ### Build from Source code (optional)
-Application build in this example uses ```us-east-1``` AWS Region and ```cassandra.us-east-1.amazonaws.com``` as Amazon Keyspaces Endpoint. If you want to build your jar from source code to customize, you can clone the repo, make custom changes and build jar using maven before moving to next step.
+In this example, Application code uses ```us-east-1``` AWS Region and ```cassandra.us-east-1.amazonaws.com``` as Amazon Keyspaces Endpoint. If you want to build your jar from source code to customize, you can clone the repo, make custom changes and build jar using maven before moving to next step.
 
 ### Create your Amazon ECR repository
 ```
@@ -47,7 +47,7 @@ aws ecr create-repository --repository-name <my repository>
 Navigate to the base Directory, Modify the Dockerfile as needed and build the Docker Image. Replace build tag with your AWS Account ID, AWS Region where ECR repository created.
 
 ```
-cd aws-examples/mykeyspacessigv4springbootapp
+cd aws-examples/eks-keyspaces-app
 docker build -t <aws_account_id>.dkr.ecr.<AWS_region>.amazonaws.com/mykeyspacessigv4springbootapp .
 ```
 

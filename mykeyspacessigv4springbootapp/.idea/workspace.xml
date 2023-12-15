@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3cd5094a-63ef-4308-a693-f7b15e1bbaa2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../eks-keyspaces-app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../eks-keyspaces-app/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2SoB1B8Y2d3jujYfB8P5DgGty7t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nkantam/Documents/git_repos/aws-examples/mykeyspacessigv4springbootapp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.Other File Types&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;dc19a87412e22f32c5a3852983ebfcfa&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Mykeyspacessigv4springbootappApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mykeyspacessigv4springbootapp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.mykeyspacessigv4springbootapp.Mykeyspacessigv4springbootappApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3cd5094a-63ef-4308-a693-f7b15e1bbaa2" name="Changes" comment="" />
+      <created>1689802837494</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689802837494</updated>
+      <workItem from="1689802839238" duration="14966000" />
+      <workItem from="1689822881159" duration="881000" />
+      <workItem from="1689875552195" duration="17521000" />
+      <workItem from="1690898052922" duration="2637000" />
+      <workItem from="1691192281984" duration="1811000" />
+      <workItem from="1691424278737" duration="2920000" />
+      <workItem from="1692036158871" duration="1328000" />
+      <workItem from="1692131148418" duration="3325000" />
+      <workItem from="1693947680831" duration="10000" />
+      <workItem from="1693947719508" duration="40000" />
+      <workItem from="1693947942179" duration="183142000" />
+      <workItem from="1694447501087" duration="10477000" />
+      <workItem from="1696527324332" duration="1252000" />
+      <workItem from="1697643515786" duration="851000" />
+      <workItem from="1698199448221" duration="11452000" />
+      <workItem from="1699375502941" duration="93000" />
+      <workItem from="1699375682621" duration="1929000" />
+      <workItem from="1699548488162" duration="835000" />
+      <workItem from="1700068609266" duration="4730000" />
+      <workItem from="1700492591422" duration="596000" />
+      <workItem from="1702585646628" duration="9000" />
+      <workItem from="1702585696466" duration="1656000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
