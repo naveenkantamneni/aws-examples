@@ -58,7 +58,7 @@ aws ecr get-login-password --region <AWS_region> | docker login --username AWS -
 
 ### Push Docker Image to Amazon ECR repository
 ```
-docker push <aws_account_id>.dkr.ecr.<AWS_region>.amazonaws.com/mykeyspacessigv4springbootapp:latest
+docker push <aws_account_id>.dkr.ecr.<AWS_region>.amazonaws.com/mykeyspacessigv4springbootapp:latest .
 ```
 ## Run your Application in EKS
 
